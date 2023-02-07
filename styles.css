@@ -1,0 +1,31 @@
+* {
+    font-family: monospace;
+  }
+
+  body {
+    font-size: 16px;
+    background-color:  rgb(203, 194, 255);
+  }
+
+  table {
+    text-align: center;
+    border: 1px solid red;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  h1, h2 {
+    font-weight: bold;
+    text-align: center;
+  }
+
+  h1 {
+    color: rgb(133, 246, 246);
+    background-color: Cornsilk;
+  }
+  
+  h2 {
+    color: rgb(230, 205, 81);
+    background-color: DarkGoldenRod;
+  }
